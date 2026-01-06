@@ -1,0 +1,5 @@
+pymupdf
+PyPDF2
+Pillow
+pytesseract
+pyinstaller
